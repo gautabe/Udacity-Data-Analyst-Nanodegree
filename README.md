@@ -34,6 +34,9 @@ This project included therefore all steps of the typical data analysis process. 
 
 - assited through visualizations and statistic
 
+![Capture d’écran du 2022-11-09 10-33-01](https://user-images.githubusercontent.com/117754022/200794029-32007af1-b4ff-405e-a204-0e9fcfe980b3.png)
+
+
 
 
 
