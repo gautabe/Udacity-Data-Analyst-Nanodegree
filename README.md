@@ -48,7 +48,7 @@ In this project we had to deal with the reality of dirty and messy data (again).
 
 
 
-# P4: Communicate Data Findings
+# P3: Communicate Data Findings
 
 The final chapter was focused on proper visualization of data. We learned about chart junk, uni-, bi- and multivariate visualization, use of color, data/ink ratio, the lief factor, other encodings, [...].
 
