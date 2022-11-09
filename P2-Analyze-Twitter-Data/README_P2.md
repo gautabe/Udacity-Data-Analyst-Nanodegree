@@ -32,14 +32,23 @@ Name: WeRateDogs™ Twitter Archive (twitter-archive-enhanced.csv)
 ## Wrangling
 
 ### Cleaning steps:
+
 ● Merge the tables together
+
 ● Drop the replies, retweets and the corresponding columns and also drop the tweets without an image or with images which don't display doggos
+
 ● Clean the datatypes of the columns -Clean the wrong numerators - the floats on the one hand (replacement), the ones with multiple occurence of the pattern on the other (drop)
+
 ● Extract the source from html code
+
 ● Split the text range into two separate columns
+
 ● Remove the "None" out of the doggo, floofer, pupper and puppo column and merge them into one column
+
 ● Remove the wrong names of name column
+
 ● Reduce the prediction columns into two - breed and conf
+
 ● Clean the new breed column by replacing the "_" with a whitespace and make them all lowercase
 
 
