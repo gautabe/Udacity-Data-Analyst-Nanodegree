@@ -9,7 +9,9 @@
 Name: WeRateDogs™ Twitter Archive (twitter-archive-enhanced.csv)
 
 ● Source: Udacity
+
 ● Version: Latest (Download 09.02.2019)
+
 ● Method of gathering: Manual download
 
 
